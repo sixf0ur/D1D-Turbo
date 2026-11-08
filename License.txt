@@ -1,0 +1,37 @@
+Copyright (c) 2026 sixf0ur
+ 
+This AI model (weights) and accompanying documentation are licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0).
+ 
+Full license text:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+ 
+Human-readable summary:
+https://creativecommons.org/licenses/by-nc/4.0/
+ 
+==============================================================================
+ATTRIBUTION
+==============================================================================
+You must give appropriate credit, provide a link to the license, and indicate
+if changes were made. Please credit as follows:
+ 
+Creator: sixf0ur
+Source:  https://github.com/sixf0ur/D1D-Turbo
+License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+ 
+==============================================================================
+NON-COMMERCIAL
+==============================================================================
+Under this license, you may not use the material for commercial purposes,
+i.e. uses primarily intended for or directed towards commercial advantage or
+monetary compensation. For commercial licensing, please contact:
+info@sixf0ur.com
+ 
+==============================================================================
+NOTE
+==============================================================================
+This notice does not modify the terms of CC BY-NC 4.0. In case of any
+conflict, the official legal code linked above applies.
+Third-party components (base models, datasets, libraries) remain subject to
+their own licenses.
